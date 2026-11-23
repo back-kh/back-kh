@@ -1,6 +1,6 @@
 ## Document AI for Digital Humanities and Preservation (Main Focus)
 
-PhD focused on Document AI, with about 15 years of experience in document analysis and low-resource language processing. Research focuses on building historical document datasets across Asian languages and scripts for layout analysis and question answering.
+PhD focused on Document AI, with about 15 years of experience in document analysis and low-resource language processing. Research includes building datasets for historical and low-resource documents across Asian languages and scripts, and developing methods for document enhancement and understanding, including layout analysis and question answering.
 
 ## Cybersecurity and Robotics (Personal Interests)
 
