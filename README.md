@@ -1,3 +1,3 @@
-# Nimol Thuon, PhD
+# Nimol Thuon
 
-I research low-resource document understanding and historical document analysis. I build datasets and methods for recognizing text, analyzing layouts, and answering questions about manuscripts and inscriptions, with a focus on Khmer and other underrepresented scripts.
+I bring together historical documents from across Asia to build datasets that span multiple languages and scripts. My research focuses on layout analysis, text recognition, and visual question answering for low-resource collections.
