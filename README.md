@@ -1,6 +1,6 @@
 # About
 
-## Document AI (Main Focus)
+## Document AI for Digital Humanities and Preservation (Main Focus)
 
 My primary research area is historical document analysis. I have worked on document analysis and low-resource language processing for about 15 years. My academic training includes a PhD focused on AI for document analysis, and my research has received several academic awards.
 
