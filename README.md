@@ -4,4 +4,4 @@ PhD focused on Document AI, with about 15+ years of experience in document analy
 
 ## Cybersecurity and Robotics (Personal Interests)
 
-Work spans cybersecurity and robotic systems security. Won competition several awards from 2009 to 2015, including at Asian and Europe events. Earned **CEH**, **OSCP**, and **CPTS** certifications. Retired in 2018 and now working as an independent security consultant, assessing LLM applications and enterprise systems for AI companies.
+Work spans cybersecurity and robotic. Won competition several awards from 2009 to 2015, including at Asian and European events. Hold **CEH**, **OSCP**, and **CPTS**. Retired in 2018 and now working as an independent security consultant, assessing LLM applications and enterprise systems for AI companies.
