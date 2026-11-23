@@ -8,4 +8,6 @@ I build datasets that bring together historical documents in multiple languages 
 
 ## Cybersecurity and Robotics (Personal Interests)
 
-Alongside my research, I work on cybersecurity and the security of robotic systems. I have won awards in national and international cybersecurity competitions across Asia and Europe, including ASEAN events. Between 2009 and 2015, I earned **CEH**, **OSCP**, and **CPTS** certifications. As an independent consultant, I help private companies assess the security of large language model (LLM) applications and enterprise systems.
+Alongside my research, I work on cybersecurity and the security of robotic systems. Between 2009 and 2015, I won awards in national and international cybersecurity competitions, including ASEAN events. I later shared a team win in Europe. I also earned **CEH**, **OSCP**, and **CPTS** certifications.
+
+I no longer compete. As an independent consultant, I help private companies assess the security of large language model (LLM) applications and enterprise systems.
