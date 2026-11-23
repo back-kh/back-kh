@@ -5,4 +5,4 @@ My main research focus is historical document analysis. I bring together histori
 
 ## Cybersecurity and robotic
 
-I also work on cybersecurity and the security of robotic systems. I have earned awards in national and international cybersecurity competitions across Asia and Europe, including ASEAN events. I hold **CEH**, **OSCP**, and **CPTS** certifications. As an independent consultant, I help private companies assess the security of large language model (LLM) applications and enterprise systems.
+I also work on cybersecurity and the security of robotic systems. I have earned awards in national and international cybersecurity competitions across Asia and Europe, including ASEAN events. I hold **CEH**, **OSCP**, and **CPTS** certifications (2009-2015). As an independent consultant, I help private companies assess the security of large language model (LLM) applications and enterprise systems.
