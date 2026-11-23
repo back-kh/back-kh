@@ -1,6 +1,6 @@
-# Nimol Thuon
+# About
 
-## Document AI
+## Document AI (Main)
 My main research focus is historical document analysis. I bring together historical documents from across Asia to build datasets that span multiple languages and scripts. I work on layout analysis, text recognition, and visual question answering for low-resource collections.
 
 ## Cybersecurity
